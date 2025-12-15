@@ -1,6 +1,5 @@
 -- قاعدة بيانات منصة المصممين
-CREATE DATABASE IF NOT EXISTS designer_platform CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE designer_platform;
+
 
 -- جدول المستخدمين
 CREATE TABLE users (
