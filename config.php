@@ -1,9 +1,10 @@
 <?php
 // إعدادات قاعدة البيانات
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'designer_platform');
+define('DB_HOST', 'sql103.infinityfree.com');
+define('DB_USER', 'if0_40684492');
+define('DB_PASS', 'WPUR313HFQO8M'); 
+define('DB_NAME', 'if0_40684492_designer_platform'); 
+define('SITE_URL', 'http://designerplatform.rf.gd' ); 
 
 // إعدادات الموقع
 define('SITE_NAME', 'منصة المصممين');
